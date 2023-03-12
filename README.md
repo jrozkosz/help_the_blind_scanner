@@ -1,6 +1,9 @@
 HELP_THE_BLID_SCANNER
+
 Temat : Skaner kodów kreskowych z bazą produktów i syntezatorem mowy oraz jej rozpoznawaniem
+
 Osoba realizująca: Jakub Rozkosz
+
 W zamyśle projekt kierowany jest dla osób niewidomych. Ociemniałym ciężko może byd rozróżnid 
 przedmioty o identycznym kształcie. Bez zmysłu wzroku wyzwaniem jest rozpoznad czy np. puszka 
 jest z ananasem czy brzoskwiniami. Pomysłem jest stworzenie programu, który za pomocą kamerki z 
