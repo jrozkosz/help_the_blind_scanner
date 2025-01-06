@@ -1,15 +1,9 @@
-HELP_THE_BLIND_SCANNER
+Topic: Barcode Scanner with Product Database, Speech Synthesis, and Recognition
 
-Temat : Skaner kodów kreskowych z bazą produktów i syntezatorem mowy oraz jej rozpoznawaniem
+Developer: Jakub Rozkosz
 
-Osoba realizująca: Jakub Rozkosz
+This project is designed for visually impaired individuals. For those who are blind, distinguishing between items with identical shapes can be challenging. Without the sense of sight, it may be difficult to tell if, for example, a can is filled with pineapple or peaches. The application uses the laptop's camera to read the barcode of the product, searches for its name in the barcode database, and then communicates the product's name to the user through a speech synthesizer. Additionally, the user can add a product to the database by scanning the barcode and verbally providing the product name, which will be saved in the database. The project can be used by anyone for their personal purposes.
 
-Projekt kierowany jest dla osób niewidomych. Ociemniałym ciężko może byd rozróżnic przedmioty 
-o identycznym kształcie. Bez zmysłu wzroku wyzwaniem jest rozpoznac czy np. puszka jest 
-z ananasem czy brzoskwiniami. Aplikacja za pomocą kamerki z laptopa będzie odczytywała kod 
-kreskowy z produktu, odszukiwała jego nazwę w bazie kodów kreskowych, a następnie za pomocą 
-syntezatora mowy komunikowała użytkownikowi czym jest dany produkt. Dodatkowo użytkownik może 
-wprowadzić produkt do bazy skanując kod kreskowy oraz werbalnie podając nazwę produktu, która 
-ma być zapisana do bazy. Projekt może byc wykorzystywany przez każdego we własnym celu.
+Unit tests were conducted using the ‘pytest’ module.
 
-Testy jednostkowe zostały wykonane przy wykorzystaniu modułu ‘pytest’.
+This application utilizes OpenCV for barcode scanning functionality.
