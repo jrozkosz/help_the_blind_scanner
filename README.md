@@ -6,4 +6,4 @@ This project is designed for visually impaired individuals. For those who are bl
 
 Unit tests were conducted using the ‘pytest’ module.
 
-This application utilizes OpenCV for barcode scanning functionality.
+This application utilizes OpenCV for barcode scanning functionality and Google libs for speech recognition and text-to-speech.
